@@ -26,7 +26,7 @@ You also need to have 'git' installed for version control.
 
 Then the data needed for this project is here, and you need to download them too.
 
-- [Kaggle Movie Data](
+You can also go to the Kaggle.com to fetch the dataset you want
 
 ## How to run
 
